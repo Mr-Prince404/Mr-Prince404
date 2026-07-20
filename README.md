@@ -1,14 +1,25 @@
+<!--
+  Mr-Prince404 · GitHub Profile
+  Palette:
+  Cyan    #00E5FF
+  Yellow  #FACC15
+  Blue    #2563EB
+  Fuchsia #D946EF
+  Red     #E11D48
+  Dark    #0D1117
+-->
+
 <div align="center">
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:38BDF8,32:2563EB,68:E11D48,100:D946EF&text=Mr-Prince404&fontColor=FFFFFF&fontSize=58&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Product%20Builder%20%C2%B7%20Cross-Platform%20Developer&descAlignY=58&descSize=18&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00E5FF,25:2563EB,52:D946EF,76:E11D48,100:FACC15&text=Mr-Prince404&fontColor=FFFFFF&fontSize=58&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Product%20Builder%20%C2%B7%20Cross-Platform%20Developer&descAlignY=58&descSize=18&animation=fadeIn"
   alt="Mr-Prince404 profile header"
 />
 
 <a href="https://github.com/Mr-Prince404">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=650&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=920&height=52&lines=Creator+of+SugoiYomi;Building+desktop%2C+mobile+and+web+products;Architecture+%C2%B7+Performance+%C2%B7+Security+%C2%B7+Polish;Turning+ambitious+ideas+into+reliable+software"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=650&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&repeat=true&width=920&height=52&lines=Creator+of+SugoiYomi;Building+desktop%2C+mobile+and+web+products;Architecture+%C2%B7+Performance+%C2%B7+Security+%C2%B7+Polish;Turning+ambitious+ideas+into+reliable+software"
     alt="Animated introduction"
   />
 </a>
@@ -20,13 +31,22 @@
 
 <p>
   <a href="https://arthurmora-dev.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=38BDF8" alt="Portfolio"/>
+    <img
+      src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=00E5FF"
+      alt="Portfolio"
+    />
   </a>
   <a href="https://github.com/Mr-Prince404/SugoiYomi-Releases">
-    <img src="https://img.shields.io/badge/SugoiYomi_Releases-111827?style=flat-square&logo=github&logoColor=D946EF" alt="SugoiYomi releases"/>
+    <img
+      src="https://img.shields.io/badge/SugoiYomi_Releases-111827?style=flat-square&logo=github&logoColor=FACC15"
+      alt="SugoiYomi releases"
+    />
   </a>
   <a href="mailto:amh.developer.contact@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=F43F5E" alt="Email"/>
+    <img
+      src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=D946EF"
+      alt="Email"
+    />
   </a>
 </p>
 
@@ -78,7 +98,9 @@ I am a Software Engineering student and product-focused developer from Mexico. I
   <tr>
     <td width="33%" valign="top">
       <h3 align="center">SugoiYomi</h3>
-      <p align="center"><strong>Cross-platform manga reading</strong></p>
+      <p align="center">
+        <strong>Cross-platform manga reading</strong>
+      </p>
       <p>
         A polished reading platform for Windows, Android and iOS, built around
         speed, extensibility, security and a clean user experience.
@@ -95,7 +117,9 @@ I am a Software Engineering student and product-focused developer from Mexico. I
     </td>
     <td width="33%" valign="top">
       <h3 align="center">OfficeExpress</h3>
-      <p align="center"><strong>Business operations platform</strong></p>
+      <p align="center">
+        <strong>Business operations platform</strong>
+      </p>
       <p>
         A web and mobile system for managing customers, sales, printing
         workflows, authentication, notifications, cash closing and reports.
@@ -110,7 +134,9 @@ I am a Software Engineering student and product-focused developer from Mexico. I
     </td>
     <td width="33%" valign="top">
       <h3 align="center">Mundo Ajolote</h3>
-      <p align="center"><strong>Creative digital project</strong></p>
+      <p align="center">
+        <strong>Creative digital project</strong>
+      </p>
       <p>
         A project in development that brings together software, visual
         identity and a more expressive product experience.
@@ -132,16 +158,46 @@ I am a Software Engineering student and product-focused developer from Mexico. I
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=38BDF8" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=38BDF8" alt="React"/>
-<img src="https://img.shields.io/badge/React_Native-111827?style=flat-square&logo=react&logoColor=D946EF" alt="React Native"/>
-<img src="https://img.shields.io/badge/Rust-111827?style=flat-square&logo=rust&logoColor=F43F5E" alt="Rust"/>
-<img src="https://img.shields.io/badge/Tauri-111827?style=flat-square&logo=tauri&logoColor=38BDF8" alt="Tauri"/>
-<img src="https://img.shields.io/badge/Kotlin-111827?style=flat-square&logo=kotlin&logoColor=D946EF" alt="Kotlin"/>
-<img src="https://img.shields.io/badge/Swift-111827?style=flat-square&logo=swift&logoColor=F43F5E" alt="Swift"/>
-<img src="https://img.shields.io/badge/Firebase-111827?style=flat-square&logo=firebase&logoColor=F43F5E" alt="Firebase"/>
-<img src="https://img.shields.io/badge/SQLite-111827?style=flat-square&logo=sqlite&logoColor=38BDF8" alt="SQLite"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-111827?style=flat-square&logo=githubactions&logoColor=D946EF" alt="GitHub Actions"/>
+<img
+  src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=00E5FF"
+  alt="TypeScript"
+/>
+<img
+  src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=00E5FF"
+  alt="React"
+/>
+<img
+  src="https://img.shields.io/badge/React_Native-111827?style=flat-square&logo=react&logoColor=D946EF"
+  alt="React Native"
+/>
+<img
+  src="https://img.shields.io/badge/Rust-111827?style=flat-square&logo=rust&logoColor=FACC15"
+  alt="Rust"
+/>
+<img
+  src="https://img.shields.io/badge/Tauri-111827?style=flat-square&logo=tauri&logoColor=00E5FF"
+  alt="Tauri"
+/>
+<img
+  src="https://img.shields.io/badge/Kotlin-111827?style=flat-square&logo=kotlin&logoColor=D946EF"
+  alt="Kotlin"
+/>
+<img
+  src="https://img.shields.io/badge/Swift-111827?style=flat-square&logo=swift&logoColor=E11D48"
+  alt="Swift"
+/>
+<img
+  src="https://img.shields.io/badge/Firebase-111827?style=flat-square&logo=firebase&logoColor=FACC15"
+  alt="Firebase"
+/>
+<img
+  src="https://img.shields.io/badge/SQLite-111827?style=flat-square&logo=sqlite&logoColor=00E5FF"
+  alt="SQLite"
+/>
+<img
+  src="https://img.shields.io/badge/GitHub_Actions-111827?style=flat-square&logo=githubactions&logoColor=D946EF"
+  alt="GitHub Actions"
+/>
 
 </div>
 
@@ -154,15 +210,15 @@ I am a Software Engineering student and product-focused developer from Mexico. I
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=Mr-Prince404&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E6EDF3&icon_color=F43F5E"
+    srcset="https://raw.githubusercontent.com/Mr-Prince404/Mr-Prince404/main/profile/stats-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=Mr-Prince404&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=FFFFFF&title_color=2563EB&text_color=111827&icon_color=E11D48"
+    srcset="https://raw.githubusercontent.com/Mr-Prince404/Mr-Prince404/main/profile/stats-light.svg"
   />
   <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=Mr-Prince404&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E6EDF3&icon_color=F43F5E"
+    src="https://raw.githubusercontent.com/Mr-Prince404/Mr-Prince404/main/profile/stats-dark.svg"
     alt="GitHub statistics"
   />
 </picture>
@@ -170,15 +226,15 @@ I am a Software Engineering student and product-focused developer from Mexico. I
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Prince404&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=D946EF&text_color=E6EDF3"
+    srcset="https://raw.githubusercontent.com/Mr-Prince404/Mr-Prince404/main/profile/top-langs-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Prince404&layout=compact&langs_count=8&hide_border=true&bg_color=FFFFFF&title_color=C026D3&text_color=111827"
+    srcset="https://raw.githubusercontent.com/Mr-Prince404/Mr-Prince404/main/profile/top-langs-light.svg"
   />
   <img
     width="41%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Prince404&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=D946EF&text_color=E6EDF3"
+    src="https://raw.githubusercontent.com/Mr-Prince404/Mr-Prince404/main/profile/top-langs-dark.svg"
     alt="Most used languages"
   />
 </picture>
@@ -191,7 +247,7 @@ I am a Software Engineering student and product-focused developer from Mexico. I
 
 <img
   width="90%"
-  src="https://streak-stats.demolab.com?user=Mr-Prince404&hide_border=true&background=0D1117&ring=38BDF8&fire=F43F5E&currStreakLabel=D946EF&sideLabels=94A3B8&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=64748B"
+  src="https://streak-stats.demolab.com?user=Mr-Prince404&hide_border=true&background=0D1117&ring=00E5FF&fire=FACC15&currStreakLabel=D946EF&sideLabels=94A3B8&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=64748B"
   alt="GitHub contribution streak"
 />
 
@@ -203,9 +259,15 @@ I am a Software Engineering student and product-focused developer from Mexico. I
 
 <img
   width="96%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-Prince404&bg_color=0D1117&color=94A3B8&line=2563EB&point=F43F5E&area_color=D946EF&area=true&hide_border=true&custom_title=Contribution%20Activity"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-Prince404&bg_color=0D1117&color=94A3B8&line=00E5FF&point=FACC15&area_color=D946EF&area=true&hide_border=true&custom_title=Contribution%20Activity"
   alt="Contribution activity graph"
 />
+
+<br/><br/>
+
+<sub>
+  Activity includes anonymized contributions from private product repositories.
+</sub>
 
 </div>
 
@@ -262,12 +324,14 @@ Products         with a clear identity
 
 <br/><br/>
 
-<sub>Built with curiosity, discipline and a suspicious amount of late-night debugging.</sub>
+<sub>
+  Built with curiosity, discipline and a suspicious amount of late-night debugging.
+</sub>
 
 </div>
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:38BDF8,32:2563EB,68:E11D48,100:D946EF"
-  alt=""
+  src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00E5FF,25:2563EB,52:D946EF,76:E11D48,100:FACC15"
+  alt="Profile footer"
 />
