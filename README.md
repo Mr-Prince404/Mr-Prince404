@@ -17,12 +17,20 @@
   alt="Mr-Prince404 profile header"
 />
 
-<a href="https://github.com/Mr-Prince404">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=650&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&repeat=true&width=920&height=52&lines=Creator+of+SugoiYomi;Building+desktop%2C+mobile+and+web+products;Architecture+%C2%B7+Performance+%C2%B7+Security+%C2%B7+Polish;Turning+ambitious+ideas+into+reliable+software"
-    alt="Animated introduction"
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=650&size=21&duration=2800&pause=1100&color=00E5FF&center=true&vCenter=true&repeat=true&width=920&height=58&lines=Coding+ideas%2C+bringing+dreams+to+life+%F0%9F%92%BB%E2%9C%A8;Developer+in+progress+%7C+Cool+head%2C+burning+heart+%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5"
   />
-</a>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=650&size=21&duration=2800&pause=1100&color=2563EB&center=true&vCenter=true&repeat=true&width=920&height=58&lines=Coding+ideas%2C+bringing+dreams+to+life+%F0%9F%92%BB%E2%9C%A8;Developer+in+progress+%7C+Cool+head%2C+burning+heart+%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5"
+  />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=650&size=21&duration=2800&pause=1100&color=00E5FF&center=true&vCenter=true&repeat=true&width=920&height=58&lines=Coding+ideas%2C+bringing+dreams+to+life+%F0%9F%92%BB%E2%9C%A8;Developer+in+progress+%7C+Cool+head%2C+burning+heart+%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5"
+    alt="Coding ideas, bringing dreams to life. Developer in progress, cool head, burning heart."
+  />
+</picture>
 
 <p>
   I design and build reliable software across desktop, mobile and the web,<br/>
