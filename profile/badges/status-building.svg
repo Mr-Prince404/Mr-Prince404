@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="124" height="20" viewBox="0 0 124 20" role="img" aria-label="STATUS: BUILDING">
+  <title>STATUS: BUILDING</title>
+  <rect width="124" height="20" rx="3" fill="#111827"/>
+  <rect x="55" width="69" height="20" rx="3" fill="#00E5FF"/>
+  <path d="M55 0h3v20h-3z" fill="#00E5FF"/>
+  <g font-family="Verdana,DejaVu Sans,sans-serif" font-size="10">
+    <text x="27.5" y="14" text-anchor="middle" fill="#FFFFFF" letter-spacing=".4">STATUS</text>
+    <text x="89.5" y="14" text-anchor="middle" fill="#111827" font-weight="700" letter-spacing=".35">BUILDING</text>
+  </g>
+</svg>

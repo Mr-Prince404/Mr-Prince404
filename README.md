@@ -84,7 +84,7 @@
 <br/>
 
 <img
-  src="https://img.shields.io/badge/STATUS-BUILDING-111827?style=flat-square&labelColor=111827&color=00E5FF"
+  src="./profile/badges/status-building.svg"
   alt="Status: Building"
 />
 <img
@@ -96,7 +96,7 @@
   alt="Four active projects"
 />
 <img
-  src="https://img.shields.io/badge/FOCUS-CROSS_PLATFORM-111827?style=flat-square&labelColor=111827&color=FACC15"
+  src="./profile/badges/focus-cross-platform.svg"
   alt="Cross-platform focus"
 />
 
@@ -213,7 +213,7 @@ const Arturo = {
 <div align="center">
 
 <img
-  src="https://img.shields.io/badge/ARCHITECTURE-00E5FF?style=for-the-badge&labelColor=111827"
+  src="./profile/badges/architecture.svg"
   alt="Architecture"
 />
 <img
@@ -229,7 +229,7 @@ const Arturo = {
   alt="Products"
 />
 <img
-  src="https://img.shields.io/badge/POLISH-FACC15?style=for-the-badge&labelColor=111827&logoColor=111827"
+  src="./profile/badges/polish.svg"
   alt="Polish"
 />
 
@@ -247,7 +247,7 @@ const Arturo = {
 <div align="center">
 <h3>SugoiYomi</h3>
 <p><strong>Cross-platform manga reading</strong></p>
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-111827?style=flat-square&labelColor=111827&color=00E5FF" alt="Status active"/>
+<img src="./profile/badges/status-active.svg" alt="Status active"/>
 <img src="https://img.shields.io/badge/PLATFORMS-Windows_|_Android_|_iOS-111827?style=flat-square&labelColor=111827&color=2563EB" alt="Windows, Android and iOS"/>
 <img src="https://img.shields.io/badge/ENGINE-INDEPENDENT-111827?style=flat-square&labelColor=111827&color=D946EF" alt="Independent engine"/>
 <br/><br/>
@@ -272,14 +272,14 @@ const Arturo = {
 <img src="https://img.shields.io/badge/Tauri-111827?style=flat-square&logo=tauri&logoColor=00E5FF" alt="Tauri"/>
 <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=D946EF" alt="React"/>
 <br/><br/>
-<a href="https://github.com/Mr-Prince404/SugoiYomi-Releases"><img src="https://img.shields.io/badge/VIEW_RELEASES-00E5FF?style=for-the-badge&logo=github&logoColor=111827" alt="View SugoiYomi releases"/></a>
+<a href="https://github.com/Mr-Prince404/SugoiYomi-Releases"><img src="./profile/badges/view-releases.svg" alt="View SugoiYomi releases"/></a>
 </div>
 </td>
 <td width="33%" valign="top">
 <div align="center">
 <h3>OfficeExpress</h3>
 <p><strong>Business operations platform</strong></p>
-<img src="https://img.shields.io/badge/STATUS-PRODUCTION-111827?style=flat-square&labelColor=111827&color=FACC15" alt="Status production"/>
+<img src="./profile/badges/status-production.svg" alt="Status production"/>
 <img src="https://img.shields.io/badge/PLATFORMS-Web_|_Android-111827?style=flat-square&labelColor=111827&color=2563EB" alt="Web and Android"/>
 <img src="https://img.shields.io/badge/SOURCE-PRIVATE-111827?style=flat-square&labelColor=111827&color=E11D48" alt="Private source"/>
 <br/><br/>
@@ -304,7 +304,7 @@ const Arturo = {
 <img src="https://img.shields.io/badge/Firebase-111827?style=flat-square&logo=firebase&logoColor=FACC15" alt="Firebase"/>
 <img src="https://img.shields.io/badge/Android-111827?style=flat-square&logo=android&logoColor=D946EF" alt="Android"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/PRIVATE_PRODUCT-FACC15?style=for-the-badge&logo=lock&logoColor=111827" alt="Private product"/>
+<img src="./profile/badges/private-product.svg" alt="Private product"/>
 </div>
 </td>
 <td width="33%" valign="top">
@@ -313,7 +313,7 @@ const Arturo = {
 <p><strong>Creative digital project</strong></p>
 <img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-111827?style=flat-square&labelColor=111827&color=D946EF" alt="In development"/>
 <img src="https://img.shields.io/badge/FOCUS-CREATIVE_UX-111827?style=flat-square&labelColor=111827&color=E11D48" alt="Creative UX"/>
-<img src="https://img.shields.io/badge/DIRECTION-BRAND_|_DESIGN-111827?style=flat-square&labelColor=111827&color=FACC15" alt="Brand and design"/>
+<img src="./profile/badges/direction-brand-design.svg" alt="Brand and design"/>
 <br/><br/>
 <img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=650&size=15&duration=2200&pause=850&color=D946EF&center=true&vCenter=true&repeat=true&width=360&height=36&lines=Creative+identity;Playful+%C2%B7+Polished+UX;Growing+into+life" alt="Mundo Ajolote animated direction"/>
 </div>

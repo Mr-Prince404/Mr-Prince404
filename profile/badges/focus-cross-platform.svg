@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="176" height="20" viewBox="0 0 176 20" role="img" aria-label="FOCUS: CROSS PLATFORM">
+  <title>FOCUS: CROSS PLATFORM</title>
+  <rect width="176" height="20" rx="3" fill="#111827"/>
+  <rect x="52" width="124" height="20" rx="3" fill="#FACC15"/>
+  <path d="M52 0h3v20h-3z" fill="#FACC15"/>
+  <g font-family="Verdana,DejaVu Sans,sans-serif" font-size="10">
+    <text x="26.0" y="14" text-anchor="middle" fill="#FFFFFF" letter-spacing=".4">FOCUS</text>
+    <text x="114.0" y="14" text-anchor="middle" fill="#111827" font-weight="700" letter-spacing=".35">CROSS PLATFORM</text>
+  </g>
+</svg>

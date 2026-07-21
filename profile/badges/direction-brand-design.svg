@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="185" height="20" viewBox="0 0 185 20" role="img" aria-label="DIRECTION: BRAND | DESIGN">
+  <title>DIRECTION: BRAND | DESIGN</title>
+  <rect width="185" height="20" rx="3" fill="#111827"/>
+  <rect x="76" width="109" height="20" rx="3" fill="#FACC15"/>
+  <path d="M76 0h3v20h-3z" fill="#FACC15"/>
+  <g font-family="Verdana,DejaVu Sans,sans-serif" font-size="10">
+    <text x="38.0" y="14" text-anchor="middle" fill="#FFFFFF" letter-spacing=".4">DIRECTION</text>
+    <text x="130.5" y="14" text-anchor="middle" fill="#111827" font-weight="700" letter-spacing=".35">BRAND | DESIGN</text>
+  </g>
+</svg>
