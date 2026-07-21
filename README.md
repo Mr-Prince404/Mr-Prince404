@@ -514,6 +514,35 @@ Products         with a clear identity
 
 <br/><br/>
 
+<img
+  width="260"
+  src="./profile/assets/image.gif"
+  alt="Chibi character hugging the GitHub logo"
+/>
+
+<br/>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=1000&color=00E5FF&center=true&vCenter=true&repeat=true&width=760&height=52&lines=Thanks+for+stopping+by!+%F0%9F%92%99;See+you+in+the+next+commit.+%E2%9C%A8"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=1000&color=2563EB&center=true&vCenter=true&repeat=true&width=760&height=52&lines=Thanks+for+stopping+by!+%F0%9F%92%99;See+you+in+the+next+commit.+%E2%9C%A8"
+  />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=1000&color=00E5FF&center=true&vCenter=true&repeat=true&width=760&height=52&lines=Thanks+for+stopping+by!+%F0%9F%92%99;See+you+in+the+next+commit.+%E2%9C%A8"
+    alt="Thanks for stopping by. See you in the next commit."
+  />
+</picture>
+
+<sub>
+  Every visit, star and bit of support means more than you think.
+</sub>
+
+<br/><br/>
+
 <sub>
   Built with curiosity, discipline and a suspicious amount of late-night debugging.
 </sub>
