@@ -537,9 +537,11 @@ Products         with a clear identity
   />
 </picture>
 
-<sub>
-  Every visit, star and bit of support means more than you think.
-</sub>
+<div align="center">
+  <sub>
+    Every visit, star and bit of support means more than you think.
+  </sub>
+</div>
 
 <br/><br/>
 
