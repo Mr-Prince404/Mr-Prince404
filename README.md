@@ -64,100 +64,282 @@
 
 ## `> whoami`
 
-```yaml
-name: Arturo Mora
-alias: Mr-Prince404
-location: Mexico
-website: arthurmora-dev.vercel.app
+<div align="center">
 
-roles:
-  - Software Engineer
-  - Full-Stack Developer
-  - Product Builder
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1500&pause=650&color=00E5FF&center=true&vCenter=true&repeat=true&width=920&height=45&lines=%24+initializing+developer+profile...;%24+identity+verified%3A+Arturo+Mora;%24+loading+projects%3A+4+active+products;%24+mission+ready%3A+build+software+people+can+trust"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1500&pause=650&color=2563EB&center=true&vCenter=true&repeat=true&width=920&height=45&lines=%24+initializing+developer+profile...;%24+identity+verified%3A+Arturo+Mora;%24+loading+projects%3A+4+active+products;%24+mission+ready%3A+build+software+people+can+trust"
+  />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1500&pause=650&color=00E5FF&center=true&vCenter=true&repeat=true&width=920&height=45&lines=%24+initializing+developer+profile...;%24+identity+verified%3A+Arturo+Mora;%24+loading+projects%3A+4+active+products;%24+mission+ready%3A+build+software+people+can+trust"
+    alt="Initializing Arturo Mora developer profile"
+  />
+</picture>
 
-currently_building:
-  - SugoiYomi
-  - SugoiYomi Mobile
-  - OfficeExpress
-  - Mundo Ajolote
+<br/>
 
-engineering_focus:
-  - software architecture
-  - performance
-  - security
-  - native systems
-  - cross-platform development
-  - polished user experiences
+<img
+  src="https://img.shields.io/badge/STATUS-BUILDING-111827?style=flat-square&labelColor=111827&color=00E5FF"
+  alt="Status: Building"
+/>
+<img
+  src="https://img.shields.io/badge/ROLE-SOFTWARE_ENGINEER-111827?style=flat-square&labelColor=111827&color=2563EB"
+  alt="Software Engineer"
+/>
+<img
+  src="https://img.shields.io/badge/PROJECTS-4_ACTIVE-111827?style=flat-square&labelColor=111827&color=D946EF"
+  alt="Four active projects"
+/>
+<img
+  src="https://img.shields.io/badge/FOCUS-CROSS_PLATFORM-111827?style=flat-square&labelColor=111827&color=FACC15"
+  alt="Cross-platform focus"
+/>
+
+</div>
+
+<br/>
+
+```ts
+const Arturo = {
+  identity: {
+    name: "Arturo Mora",
+    alias: "Mr-Prince404",
+    location: "Mexico",
+    website: "arthurmora-dev.vercel.app",
+  },
+
+  roles: [
+    "Software Engineer",
+    "Full-Stack Developer",
+    "Product Builder",
+  ],
+
+  currentlyBuilding: {
+    SugoiYomi: {
+      type: "Cross-platform manga reader",
+      platforms: ["Windows", "Android", "iOS"],
+      status: "Active development",
+    },
+
+    SugoiYomiMobile: {
+      type: "Native-feeling mobile experience",
+      platforms: ["Android", "iOS"],
+      status: "Foundation in progress",
+    },
+
+    OfficeExpress: {
+      type: "Business operations platform",
+      platforms: ["Web", "Android"],
+      status: "Production",
+    },
+
+    MundoAjolote: {
+      type: "Creative digital project",
+      status: "In development",
+    },
+  },
+
+  engineeringFocus: [
+    "software architecture",
+    "performance",
+    "security by design",
+    "native systems",
+    "cross-platform development",
+    "polished user experiences",
+  ],
+
+  currentMission:
+    "Turn ambitious ideas into reliable products people can trust",
+} as const;
 ```
 
-I am a Software Engineering student and product-focused developer from Mexico. I enjoy taking technically demanding ideas from architecture diagrams to dependable products that people can actually enjoy using.
+<details open>
+  <summary>
+    <strong>Current build queue</strong>
+  </summary>
 
-- **ICPC Mexico 2024 National Finalist**
-- Creator of **SugoiYomi**, a modern cross-platform manga reader
-- Developer of **OfficeExpress**, a web and mobile business platform
-- Building **Mundo Ajolote**, a creative digital project currently in development
-- Exploring native infrastructure, mobile engineering and secure extension systems
+  <br/>
+
+  | Product | Mission | State |
+  |:--|:--|:--:|
+  | **SugoiYomi** | Independent cross-platform manga ecosystem | `ACTIVE` |
+  | **SugoiYomi Mobile** | Polished Android and iOS reading experience | `BUILDING` |
+  | **OfficeExpress** | Connected business and retail operations | `PRODUCTION` |
+  | **Mundo Ajolote** | Creative project with a distinctive identity | `IN DEVELOPMENT` |
+
+</details>
+
+<details>
+  <summary>
+    <strong>Developer snapshot</strong>
+  </summary>
+
+  <br/>
+
+  - Software Engineering student and product-focused developer
+  - Creator of **SugoiYomi**
+  - Developer of **OfficeExpress**
+  - Building products across desktop, mobile and the web
+  - Exploring secure extension systems and native infrastructure
+
+</details>
+
+<details>
+  <summary>
+    <strong>What drives the work</strong>
+  </summary>
+
+  <br/>
+
+  > I enjoy taking technically demanding ideas from architecture diagrams to dependable products that people can actually enjoy using.
+
+  ```text
+  Ambition       starts the project
+  Architecture   gives it structure
+  Discipline     keeps it maintainable
+  Empathy        shapes the experience
+  Curiosity      pushes it forward
+  ```
+
+</details>
+
+<br/>
+
+<div align="center">
+
+<img
+  src="https://img.shields.io/badge/ARCHITECTURE-00E5FF?style=for-the-badge&labelColor=111827"
+  alt="Architecture"
+/>
+<img
+  src="https://img.shields.io/badge/PERFORMANCE-2563EB?style=for-the-badge&labelColor=111827"
+  alt="Performance"
+/>
+<img
+  src="https://img.shields.io/badge/SECURITY-D946EF?style=for-the-badge&labelColor=111827"
+  alt="Security"
+/>
+<img
+  src="https://img.shields.io/badge/PRODUCTS-E11D48?style=for-the-badge&labelColor=111827"
+  alt="Products"
+/>
+<img
+  src="https://img.shields.io/badge/POLISH-FACC15?style=for-the-badge&labelColor=111827&logoColor=111827"
+  alt="Polish"
+/>
+
+</div>
+
+<br/>
 
 ---
 
 ## Selected Work
 
 <table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">SugoiYomi</h3>
-      <p align="center">
-        <strong>Cross-platform manga reading</strong>
-      </p>
-      <p>
-        A polished reading platform for Windows, Android and iOS, built around
-        speed, extensibility, security and a clean user experience.
-      </p>
-      <p>
-        Desktop application, mobile clients, local and remote reading,
-        CBZ support, downloads, history and an independent extension engine.
-      </p>
-      <p align="center">
-        <a href="https://github.com/Mr-Prince404/SugoiYomi-Releases">
-          View releases →
-        </a>
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">OfficeExpress</h3>
-      <p align="center">
-        <strong>Business operations platform</strong>
-      </p>
-      <p>
-        A web and mobile system for managing customers, sales, printing
-        workflows, authentication, notifications, cash closing and reports.
-      </p>
-      <p>
-        Designed to connect daily business operations through a practical,
-        cloud-backed experience.
-      </p>
-      <p align="center">
-        <em>Private product</em>
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">Mundo Ajolote</h3>
-      <p align="center">
-        <strong>Creative digital project</strong>
-      </p>
-      <p>
-        A project in development that brings together software, visual
-        identity and a more expressive product experience.
-      </p>
-      <p>
-        Its public presentation, imagery and technical details will be added
-        as the project continues to grow.
-      </p>
-      <p align="center">
-        <em>In development</em>
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="33%" valign="top">
+<div align="center">
+<h3>SugoiYomi</h3>
+<p><strong>Cross-platform manga reading</strong></p>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-111827?style=flat-square&labelColor=111827&color=00E5FF" alt="Status active"/>
+<img src="https://img.shields.io/badge/PLATFORMS-Windows_|_Android_|_iOS-111827?style=flat-square&labelColor=111827&color=2563EB" alt="Windows, Android and iOS"/>
+<img src="https://img.shields.io/badge/ENGINE-INDEPENDENT-111827?style=flat-square&labelColor=111827&color=D946EF" alt="Independent engine"/>
+<br/><br/>
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=650&size=15&duration=2200&pause=850&color=00E5FF&center=true&vCenter=true&repeat=true&width=360&height=36&lines=Independent+extension+engine;Desktop+%C2%B7+Android+%C2%B7+iOS;Reading+without+friction" alt="SugoiYomi animated capabilities"/>
+</div>
+<p>A polished reading platform for Windows, Android and iOS, built around speed, extensibility, security and a clean user experience.</p>
+<p>Desktop and mobile clients, local and remote reading, CBZ support, downloads, history and an independent extension engine.</p>
+<details>
+<summary><strong>⚡ Explore capabilities</strong></summary>
+<br/>
+<ul>
+<li>Independent extension engine</li>
+<li>Local, remote and CBZ reading</li>
+<li>Downloads and reading history</li>
+<li>Desktop and mobile clients</li>
+<li>Cross-device sync architecture</li>
+</ul>
+</details>
+<br/>
+<div align="center">
+<img src="https://img.shields.io/badge/Rust-111827?style=flat-square&logo=rust&logoColor=FACC15" alt="Rust"/>
+<img src="https://img.shields.io/badge/Tauri-111827?style=flat-square&logo=tauri&logoColor=00E5FF" alt="Tauri"/>
+<img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=D946EF" alt="React"/>
+<br/><br/>
+<a href="https://github.com/Mr-Prince404/SugoiYomi-Releases"><img src="https://img.shields.io/badge/VIEW_RELEASES-00E5FF?style=for-the-badge&logo=github&logoColor=111827" alt="View SugoiYomi releases"/></a>
+</div>
+</td>
+<td width="33%" valign="top">
+<div align="center">
+<h3>OfficeExpress</h3>
+<p><strong>Business operations platform</strong></p>
+<img src="https://img.shields.io/badge/STATUS-PRODUCTION-111827?style=flat-square&labelColor=111827&color=FACC15" alt="Status production"/>
+<img src="https://img.shields.io/badge/PLATFORMS-Web_|_Android-111827?style=flat-square&labelColor=111827&color=2563EB" alt="Web and Android"/>
+<img src="https://img.shields.io/badge/SOURCE-PRIVATE-111827?style=flat-square&labelColor=111827&color=E11D48" alt="Private source"/>
+<br/><br/>
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=650&size=15&duration=2200&pause=850&color=FACC15&center=true&vCenter=true&repeat=true&width=360&height=36&lines=Connected+business+operations;Web+%C2%B7+Android;Cloud-backed+workflows" alt="OfficeExpress animated capabilities"/>
+</div>
+<p>A web and mobile system for managing customers, sales, printing workflows, authentication, notifications, cash closing and reports.</p>
+<p>Designed to connect daily business operations through a practical, cloud-backed experience.</p>
+<details>
+<summary><strong>⚡ Explore capabilities</strong></summary>
+<br/>
+<ul>
+<li>Customer and sales management</li>
+<li>Printing workflows</li>
+<li>Cash closing and daily reports</li>
+<li>Authentication and notifications</li>
+<li>Web dashboard and Android app</li>
+</ul>
+</details>
+<br/>
+<div align="center">
+<img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=00E5FF" alt="React"/>
+<img src="https://img.shields.io/badge/Firebase-111827?style=flat-square&logo=firebase&logoColor=FACC15" alt="Firebase"/>
+<img src="https://img.shields.io/badge/Android-111827?style=flat-square&logo=android&logoColor=D946EF" alt="Android"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/PRIVATE_PRODUCT-FACC15?style=for-the-badge&logo=lock&logoColor=111827" alt="Private product"/>
+</div>
+</td>
+<td width="33%" valign="top">
+<div align="center">
+<h3>Mundo Ajolote</h3>
+<p><strong>Creative digital project</strong></p>
+<img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-111827?style=flat-square&labelColor=111827&color=D946EF" alt="In development"/>
+<img src="https://img.shields.io/badge/FOCUS-CREATIVE_UX-111827?style=flat-square&labelColor=111827&color=E11D48" alt="Creative UX"/>
+<img src="https://img.shields.io/badge/DIRECTION-BRAND_|_DESIGN-111827?style=flat-square&labelColor=111827&color=FACC15" alt="Brand and design"/>
+<br/><br/>
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=650&size=15&duration=2200&pause=850&color=D946EF&center=true&vCenter=true&repeat=true&width=360&height=36&lines=Creative+identity;Playful+%C2%B7+Polished+UX;Growing+into+life" alt="Mundo Ajolote animated direction"/>
+</div>
+<p>A project in development that brings together software, visual identity and a more expressive product experience.</p>
+<p>Its public presentation, imagery and technical details will be added as the project continues to grow.</p>
+<details>
+<summary><strong>✨ Explore direction</strong></summary>
+<br/>
+<ul>
+<li>Distinctive product identity</li>
+<li>Expressive visual design</li>
+<li>Playful and polished UX</li>
+<li>Creative digital presence</li>
+<li>Public presentation coming later</li>
+</ul>
+</details>
+<br/>
+<div align="center">
+<img src="https://img.shields.io/badge/Design-111827?style=flat-square&logo=figma&logoColor=D946EF" alt="Design"/>
+<img src="https://img.shields.io/badge/Brand-111827?style=flat-square&logoColor=FACC15" alt="Brand"/>
+<img src="https://img.shields.io/badge/UX-111827?style=flat-square&logoColor=00E5FF" alt="UX"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/COMING_TO_LIFE-D946EF?style=for-the-badge&logoColor=FFFFFF" alt="Coming to life"/>
+</div>
+</td>
+</tr>
 </table>
 
 ---
